@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn git and node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm rin lite",
+    "test": "https://github.com/imamulkadir/git-test.git",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imamulkadir/git-test.git"
+  },
+  "author": "Imamul Kadir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imamulkadir/git-test/issues"
+  },
+  "homepage": "https://github.com/imamulkadir/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
